@@ -29,14 +29,14 @@ menus:
 
 params:
   author:
-    name: 'Mega'
+    name: 'Andri'
     location: 'Japan'
     #pronouns:
     bio: "(D1)"
     employer: 'Okayama University'
     #picture: 'profile.png'
-    site: 'https://dtn-ou.gitlab.io'
-    mail: 'mpranata@s.okayama-u.ac.jp'
+    site: 'https://andridesu.github.io'
+    mail: 'andri@s.okayama-u.ac.jp'
     # Full Link
     # google_scholar: 'https://scholar.google.com/citations?user=000000000000&hl=en'
     # scopus: 'https://www.scopus.com/authid/detail.uri?authorId=00000000000'
